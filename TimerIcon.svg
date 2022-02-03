@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.124443mm"
+   height="36.124443mm"
+   viewBox="0 0 128 127.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="TimerIcon.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath4586"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path4588"
+         d="m 568,29 -539,0 0,784.47772 539,0 L 568,29 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="11.309713"
+     inkscape:cy="145.01537"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-308.04724,-462.1811)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4594"
+       style="fill:#76c261;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 308.04724,462.1811 128,0 0,128 -128,0 0,-128 z" />
+    <text
+       id="text4596"
+       style="font-variant:normal;font-weight:normal;font-size:75.06963348px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';writing-mode:lr-tb;fill:#ffffff;fill-opacity:0.63095236;fill-rule:nonzero;stroke:none;"
+       x="334.93396"
+       y="553.47083">
+      <tspan
+         id="tspan4598"
+         y="553.47083"
+         x="334.93396"
+         style="fill:#ffffff;fill-opacity:0.63095236;">W</tspan>
+    </text>
+  </g>
+</svg>
